@@ -1,4 +1,4 @@
 # IGPE-BubbleBobble (University Project)
-Graphic interfaces and event programming Exam: creating Bubble Bobble game
+Graphic Interfaces and Event Programming Exam: creating Bubble Bobble game
 
 info game: documentation (written in italian)
