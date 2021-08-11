@@ -1,0 +1,28 @@
+								    Bubble Bobble
+
+Bubble Bobble è un videogioco arcade platform, ha come protagonista un drago di nome Bub capace di sputare bolle. Lo scopo del gioco è sconfiggere tutti i nemici presenti nel livello e passare al livello successivo, fino ad arrivare a quello conclusivo. Si può accedere al livello successivo solo quando tutti gli oggetti (lasciati dai nemici sconfitti) presenti nella mappa sono stati raccolti.
+
+Modalità di gioco.
+
+Player (Bub/drago):
+- il giocatore ha un massimo di 5 vite.
+- tasti direzionali destra e sinistra per muoversi orizzontalmente.
+- tasto direzionale su per saltare. Non è possibile saltare attraverso i blocchi.
+- barra spaziatrice per sparare le bolle.
+- tasto O per avviare/stoppare musica.
+- il giocatore perde una vita quando viene toccato da un nemico standard o da un ghost.
+- il giocatore recupera una vita solo se le sue attuali vite sono minori di 5.
+
+Nemici standard (ZenChan):
+- si muovono orizzontalmente, non possono saltare.
+- possono essere uccisi solo con le bolle (non vale saltargli sopra).
+- possono usare lo spazio vuoto presente nella parte bassa della mappa per rispuntare in quella alta (effetto Pac-Man).
+- quando un nemico muore rilascia un premio, può essere una vita oppure un oggetto che dà punti.
+
+Nemico speciale (Ghost):
+- non può essere ucciso.
+- può volare muovendosi in tutte le direzioni.
+- può usare lo spazio vuoto presente nella parte bassa della mappa per rispuntare in quella alta (effetto Pac-Man).
+- non rilascia premi.
+
+
